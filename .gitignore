@@ -1,0 +1,27 @@
+# API Keys
+.env
+.env.*
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector Databases
+faiss_index/
+chroma_db/
+
+# IDE Settings
+.vscode/
+
+# Operating System
+.DS_Store
+Thumbs.db
+.env
