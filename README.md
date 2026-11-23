@@ -8,7 +8,7 @@ The application extracts text from PDF files, divides the content into smaller c
 
 ## Technologies Used
 
-Python, LangChain, LangGraph, Groq API, Google Gemini Embeddings, FAISS, PyPDF, Python Dotenv, Jupyter Notebook.
+Python, LangChain, Groq API, Google Gemini Embeddings, FAISS, PyPDF, Python Dotenv, Jupyter Notebook.
 
 ## Key Features
 
@@ -151,3 +151,4 @@ Run the notebook cells sequentially to load PDFs, generate embeddings, create th
 ## Author
 
 Rohit Kumar
+
