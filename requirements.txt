@@ -2,7 +2,6 @@
 langchain
 langchain-community
 
-
 # Google Gemini Embeddings
 langchain-google-genai
 
@@ -10,9 +9,6 @@ langchain-google-genai
 langchain-groq
 groq
 
-
-
-
-
 # Environment Variables
 python-dotenv
+
