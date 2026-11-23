@@ -1,0 +1,18 @@
+# LangChain Framework
+langchain
+langchain-community
+
+
+# Google Gemini Embeddings
+langchain-google-genai
+
+# Groq LLM
+langchain-groq
+groq
+
+
+
+
+
+# Environment Variables
+python-dotenv
